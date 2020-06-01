@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sirak
+ *
+ */
+module AbstractFactory {
+}
